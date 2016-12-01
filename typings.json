@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "xml2json": "registry:npm/xml2json#0.9.1+20160811060400"
+  },
+  "globalDependencies": {
+    "xml2js": "registry:dt/xml2js#0.0.0+20160317120654"
+  }
+}
